@@ -12,4 +12,5 @@ Please, note that if you don’t have a ChatGPT account you need to sign up here
 ## What is Streamlit?
 Streamlit is a Python package that introduces an easy pipeline to build web-based applications. In addition, it could be used to create interactive visualizations, dashboards, and machine-learning tools with just a few lines of code. Streamlit is simple and intuitive, so it is easy for data scientists and developers to create powerful applications without needing web development experience.
 
-### You need to run this: streamlit run script_name.py
+### You need to run this:
+streamlit run script_name.py
